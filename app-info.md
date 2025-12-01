@@ -1,4 +1,4 @@
 ## Moja aplikacja
 
-**Technologia:** React Native  
+**Technologia:** React Native (Konflikt)
 **Numer indeksu:** 144856
