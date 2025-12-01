@@ -1,4 +1,4 @@
 ## Moja aplikacja
 
-**Technologia:** React Native  
+**Technologia:** NativeScript
 **Numer indeksu:** 144856
